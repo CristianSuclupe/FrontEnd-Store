@@ -1,0 +1,102 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "imagen": "/src/assets/1.jpg",
+      "nombre": "VueJS",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 2,
+      "imagen": "/src/assets/2.jpg",
+      "nombre": "AngularJS",
+      "precio": "$25",
+      "sexo": "Mujer"
+    },
+    {
+      "id": 3,
+      "imagen": "/src/assets/3.jpg",
+      "nombre": "ReactJS",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 4,
+      "imagen": "/src/assets/4.jpg",
+      "nombre": "Redux",
+      "precio": "$25",
+      "sexo": "Mujer"
+    },
+    {
+      "id": 5,
+      "imagen": "/src/assets/5.jpg",
+      "nombre": "NodeJS",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 6,
+      "imagen": "/src/assets/6.jpg",
+      "nombre": "SASS",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 7,
+      "imagen": "/src/assets/7.jpg",
+      "nombre": "HTML5",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 8,
+      "imagen": "/src/assets/8.jpg",
+      "nombre": "GitHub",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 9,
+      "imagen": "/src/assets/9.jpg",
+      "nombre": "BulmaCSS",
+      "precio": "$25",
+      "sexo": "Mujer"
+    },
+    {
+      "id": 10,
+      "imagen": "/src/assets/10.jpg",
+      "nombre": "TypeScript",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 11,
+      "imagen": "/src/assets/11.jpg",
+      "nombre": "Drupal",
+      "precio": "$25",
+      "sexo": "Mujer"
+    },
+    {
+      "id": 12,
+      "imagen": "/src/assets/12.jpg",
+      "nombre": "JavaScript",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 13,
+      "imagen": "/src/assets/13.jpg",
+      "nombre": "GraphQL",
+      "precio": "$25",
+      "sexo": "Hombre"
+    },
+    {
+      "id": 14,
+      "imagen": "/src/assets/14.jpg",
+      "nombre": "WordPress",
+      "precio": "$25",
+      "sexo": "Mujer"
+    }
+  ]
+}
